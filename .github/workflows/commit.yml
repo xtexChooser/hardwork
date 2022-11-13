@@ -23,8 +23,9 @@ jobs:
       - name: Create commits
         uses: xtexChooser/hardwork-action@main
         with:
-          name: Test
-          email: test@xtexx.ml
+          name: xtexChooser
+          email: xtexchooser@duck.com
+          days: 93
       
       - name: Configure
         run: |
